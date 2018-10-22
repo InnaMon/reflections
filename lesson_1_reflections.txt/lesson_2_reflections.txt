@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a reposity, you create an imaginary file that you can created changes and after you feel comfortable
+with the changes, can save them to the working directory. Allows you to edit your work without causing permanent changes.
+Allows you to track your work.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is the intermediate area between the working directory and git repository. 
+You can add files that are found in the wokring directory and once changes have been made, you can commit those changes to the Git repository.
+It allows you to have more contorl over the edit and changes you make to files before commiting anything and making it part fo the repo.

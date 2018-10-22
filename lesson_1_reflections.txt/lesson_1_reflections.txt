@@ -1,0 +1,26 @@
+ALthough I have taken a command prompt, git, and github course from Skillcrush this Summer, it was one lesson I had a very difficult time grasping. 
+After working with more code and esp learning more about JS, I see a little more clearly why using a terminal to do my work can be very beneficial.
+It was good practice today learning about some fo the absic commands that allow me to navigate through my computer to pull up documents without usign the GUI.
+I like the refresher but feel like I am doing a lot of my work research (esp sinc the Udacity course uses Sublime and I use VS Code). 
+Although, maybe it's a good thing because it is teaching me to be a self learner and find answers on my own.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?:
+Allows to catch mistakes promptly and go back to previous formates that may have worked better before you mae changes.
+Allows to rely less on your own memory. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+The con is that you need to be aware of teh changes you are making and keeping track of time or a project, rememebering when to save changes.
+The pro is that your changes are saved in a more organized manner and you have more control.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Because the files are interrelted (changes in one file can have an effect on another file) and it is easir to track down revisions.
+
+How can you use the commands git log and git diff to view the history of files?
+git log allows you to see the history of all the commit IDs and the revision messages associated with them. 
+Git diff allows you to compare two commit IDs and the difference between the two, allowing you to key in on the specific revisions made. 
+
+How might using version control make you more confident to make changes that could break something?
+You can track the changes made, compre commits, find bugs, and track them down to specific commits, enabling you to make the necessary edits.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Working on my Udacity projects and practicing.
